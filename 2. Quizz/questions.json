@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Qui est sacré empereur de France le 2 décembre 1804 ?",
+    "propositions": ["Clovis", "Abraham Lincoln", "Napoleon Bonaparte"],
+    "answer": 3
+  },
+  {
+    "question":"Quand la déclaration d’indépendance des Etats-Unis a-t-elle été votée ?",
+    "propositions": ["4 juillet 1776", "18 avril 1856", "30 juin 1925"],
+    "answer": 1
+  },
+  {
+    "question":"Quand la déclaration d’indépendance des Etats-Unis a-t-elle été votée ?",
+    "propositions": ["4 juillet 1776", "18 avril 1856", "30 juin 1925"],
+    "answer": 1
+  },
+  {
+    "question":"Quand la déclaration d’indépendance des Etats-Unis a-t-elle été votée ?",
+    "propositions": ["4 juillet 1776", "18 avril 1856", "30 juin 1925"],
+    "answer": 1
+  },
+  {
+    "question":"Quand la déclaration d’indépendance des Etats-Unis a-t-elle été votée ?",
+    "propositions": ["4 juillet 1776", "18 avril 1856", "30 juin 1925"],
+    "answer": 1
+  },
+  {
+    "question":"Quand la déclaration d’indépendance des Etats-Unis a-t-elle été votée ?",
+    "propositions": ["4 juillet 1776", "18 avril 1856", "30 juin 1925"],
+    "answer": 1
+  }
+]
