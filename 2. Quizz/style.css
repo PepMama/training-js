@@ -12,3 +12,100 @@ body {
   background: linear-gradient(to right, #e0eafc, #cfdef3);
   padding: clamp(20px, 5vw, 50px) 20px 10px;
 }
+
+h1 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.quizz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.question-block {
+  max-width: 650px;
+  background-color: #FFFFFF;
+  box-shadow: 0 5px 10px rgba(104,104,104,0.5);
+  border-radius: 2px;
+  padding: 30px;
+  margin: 7px 0;
+  letter-spacing: 1px;
+}
+
+.question-block > p {
+  margin-bottom: 15px;
+}
+
+.question-block label, .question-block input[type="radio"]{
+  cursor: pointer;
+}
+
+.question-block label {
+  font-size: 14px;
+}
+
+.question-block input[type="radio"]{
+  margin-right: 15px;
+}
+
+form button {
+  display: block;
+  margin: 20px auto;
+  border-radius: 5px;
+  background: #fff;
+  max-width: 200px;
+  padding: 15px 5px;
+  font-size: 20px;
+  cursor: pointer;
+  border: none;
+  box-shadow: 0 3px 5px rgba(0,0,0,0.2);
+}
+
+form button:hover {
+  background: #fafafa;
+}
+
+.results {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 650px;
+  border-radius: 5px;
+  box-shadow: 0 5px 7px rgba(0,0,0,0.2);
+  background: #fff;
+}
+.results h2 {
+  font-size: 22px;
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+}
+.results h2 span {
+  font-weight: 700;
+}
+
+.results h2, .help {
+  text-align: center;
+}
+
+.help, .mark {
+  display: none;
+  margin-top: 20px;
+}
+
+.help {
+  font-size: 20px;
+}
+
+.mark {
+  font-family: Roboto, sans-serif;
+  font-weight: 400;
+  font-size: 25px;
+  text-align: center;
+}
+
+.mark span {
+  font-weight: 700;
+}
+
